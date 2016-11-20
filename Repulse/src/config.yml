@@ -1,0 +1,11 @@
+SCOREBOARD:
+    TITLE: "&6&lHCGames.org"
+    LINES: 
+        - "%bars%"
+        - "&6&lOnline: &f%online%"
+        - "&c&lRank: &f%rank%"
+        - ""
+        - "&cwww.hcgames.org"
+        - "%bars%"
+    SETTINGS:
+        BARS: "&7&m-------------------------------------------"
